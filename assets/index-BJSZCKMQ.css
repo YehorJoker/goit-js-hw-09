@@ -1,0 +1,1 @@
+.home{display:flex;flex-direction:column;align-items:center;gap:24px;padding:64px 16px}.home-list{display:flex;gap:24px}.home-link{display:block;padding:8px 24px;border-radius:8px;color:#fff;background-color:#4e75ff;transition:background-color .25s ease}.home-link:hover,.home-link:focus{background-color:#6c8cff}
